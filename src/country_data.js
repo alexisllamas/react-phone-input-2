@@ -838,7 +838,17 @@ const rawAllCountries = [
     'Mexico',
     ['america', 'central-america'],
     'mx',
-    '52'
+    '5255',
+    '+.. .. .... ...',
+    1
+  ],
+  [
+    'Mexico',
+    ['america', 'central-america'],
+    'mx',
+    '52',
+    '+.. ... ... ...',
+    0
   ],
   [
     'Micronesia',
